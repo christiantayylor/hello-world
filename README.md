@@ -1,3 +1,3 @@
 # hello-world,
-# my-name-is-Christian.
-# i-am-a-software-development-student.
+# My name is Christian.
+# I am a software development student.
